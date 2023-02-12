@@ -1,6 +1,6 @@
-# Bootcamp_Sep2022
+# Bootcamp Septiembre 2022 - Marzo 2023
 ![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
-Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022.
+Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022 a marzo 2023.
 
 ## Validación de Modelos
 * Validación Cruzada
