@@ -10,6 +10,7 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre d
 ## Modelos Supervisados
 ### Modelos de Clasificación
 Algunos modelos de clasificación son:
+* Regresión Logística
 * Naive Bayes 
 * Arboles de Decisión :evergreen_tree:
 * Random Forest :palm_tree: :evergreen_tree: :deciduous_tree: :christmas_tree:
