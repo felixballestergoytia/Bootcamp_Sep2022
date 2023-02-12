@@ -2,6 +2,21 @@
 ![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
 Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022 a marzo 2023.
 
+
+## Matemáticas
+### Calculo
+* Funciones
+* Derivadas
+### Algebra Lineal
+* Determinantes
+* Inversa de Matrices
+* Sistema de Ecuaciones
+
+## Estadística
+* Estadística Descriptiva
+* Series Cronológicas
+* Intervalos de Confianza
+
 ## Validación de Modelos
 * Validación Cruzada
 ## Optimización de HiperParametros
