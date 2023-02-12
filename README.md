@@ -1,4 +1,6 @@
 # Bootcamp_Sep2022
+Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022.
+ 
 ## Modelos Supervisados
 ### Modelos de Clasificación
 Algunos modelos de clasificación son:
