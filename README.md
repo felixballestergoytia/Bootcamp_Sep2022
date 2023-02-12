@@ -1,4 +1,5 @@
 # Bootcamp_Sep2022
+![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
 Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022.
  
 ## Modelos Supervisados
@@ -15,3 +16,4 @@ Algunos modelos de regresión son:
 
 ## Modelos No Supervisados
 * Análisis de Componentes Princiaples (PCA)
+* Descomposición de valores Singulares (SVD)
