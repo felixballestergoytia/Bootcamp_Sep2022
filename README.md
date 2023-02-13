@@ -40,7 +40,7 @@ Algunos modelos de regresión son:
 ## Modelos No Supervisados
 * Análisis de Componentes Princiaples (PCA)
 * Descomposición de valores Singulares (SVD)
-
+* K-Means
 
 
 ## Warning :warning:
