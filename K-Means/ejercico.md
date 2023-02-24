@@ -1,0 +1,2 @@
+El centro comercial **Neptuno** quiere segmentar a su clientela para así preparar la camapaña de ventas. Para ello os facilita el csv Centro_Comercial.csv.
+Preparad una pequeña presentación de 5 min para exponer a los responsable del centro comercial 
