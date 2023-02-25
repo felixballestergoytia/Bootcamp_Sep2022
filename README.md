@@ -15,26 +15,23 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre d
 </p>
 </details>
 
-```graph TD;
-    Matemáticas-->Estadística;
-    Estadística-->Machine Learning;
-```
+
 
 
 ## Matemáticas
-![](https://educacion30.b-cdn.net/wp-content/uploads/2020/03/fondo-matematicas_23-2148146270.jpg)
+
 ### Calculo
-![](https://concepto.de/wp-content/uploads/2013/08/matematicas-e1551990337130.jpg)
+
 * Funciones
 * Derivadas
 ### Algebra Lineal
-![](https://s3.amazonaws.com/wwctspa.com/wp-content/uploads/2020/06/19153152/Algebra-econom%C3%ADa.jpg)
+
 * Determinantes
 * Inversa de Matrices
 * Sistema de Ecuaciones
 
 ## Estadística
-![](https://masteres.ugr.es/estadistica-aplicada/sites/master/moea/public/imagenes/cabecera/2022-07/estadistica.jpeg)
+
 * Estadística Descriptiva
 * Series Cronológicas
 * Intervalos de Confianza
