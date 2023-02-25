@@ -2,12 +2,23 @@
 ![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
 Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022 a marzo 2023.
 
+## Lista de Tareas
+<details><summary>Lista Tareas </summary>
+<p>
 
+- [x] Matemáticas
+- [x] Estadística
+- [x] Modelos Supervisados
+- [x] Modelos No Supervisados
+- [ ] Series Temporales
+- [ ] NLP
+</p>
+</details>
 
-graph TD;
+```graph TD;
     Matemáticas-->Estadística;
     Estadística-->Machine Learning;
-
+```
 
 
 ## Matemáticas
@@ -57,14 +68,7 @@ Algunos modelos de regresión son:
 * Dendogramas
 * DBSCAN
 
-## Lista de Tareas
 
-- [x] Matemáticas
-- [x] Estadística
-- [x] Modelos Supervisados
-- [x] Modelos No Supervisados
-- [ ] NLP
-- [ ] Series Temporales
 
 # Warning :warning:
 * Este repositorio está en constante construcción :construction_worker: :construction:
