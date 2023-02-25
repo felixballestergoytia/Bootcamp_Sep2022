@@ -3,6 +3,13 @@
 Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre de 2022 a marzo 2023.
 
 
+
+graph TD;
+    Matemáticas-->Estadística;
+    Estadística-->Machine Learning;
+
+
+
 ## Matemáticas
 ![](https://educacion30.b-cdn.net/wp-content/uploads/2020/03/fondo-matematicas_23-2148146270.jpg)
 ### Calculo
@@ -21,35 +28,45 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre d
 * Series Cronológicas
 * Intervalos de Confianza
 
-## Validación de Modelos
+## Machine Learning
+### Validación de Modelos
 * Validación Cruzada
-## Optimización de HiperParametros
+### Optimización de HiperParametros
 * GridSearch
 * RandomizedSearch
-## Modelos Supervisados
-### Modelos de Clasificación
+
+### Modelos Supervisados
+#### Modelos de Clasificación
 Algunos modelos de clasificación son:
 * Regresión Logística
 * Naive Bayes 
 * Arboles de Decisión :evergreen_tree:
 * Random Forest :palm_tree: :evergreen_tree: :deciduous_tree: :christmas_tree:
 * K-Vecinos 
-### Modelos de Regresion
+#### Modelos de Regresion
 Algunos modelos de regresión son:
 * Regresión Lineal
 * Lasso
 * Ridge
 * XGBoost
 
-## Modelos No Supervisados
+### Modelos No Supervisados
 * Análisis de Componentes Princiaples (PCA)
 * Descomposición de valores Singulares (SVD)
 * K-Means
 * Dendogramas
 * DBSCAN
 
+## Lista de Tareas
 
-## Warning :warning:
+- [x] Matemáticas
+- [x] Estadística
+- [x] Modelos Supervisados
+- [x] Modelos No Supervisados
+- [ ] NLP
+- [ ] Series Temporales
+
+# Warning :warning:
 * Este repositorio está en constante construcción :construction_worker: :construction:
 * Todas las erratas que hubiera o dudas por favor no dudeis en comunicarlo :shipit:.
 * Una vez finalizado el bootcamp este repositorio dejará de ser público :ghost:
