@@ -4,7 +4,9 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre d
 
 
 ## Matemáticas
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Feducacion30.b-cdn.net%2Fwp-content%2Fuploads%2F2020%2F03%2Ffondo-matematicas_23-2148146270.jpg&imgrefurl=https%3A%2F%2Fwww.educaciontrespuntocero.com%2Frecursos%2Fdia-internacional-matematicas%2F&tbnid=7KGm_6TUHw7whM&vet=12ahUKEwib75jO3bD9AhVcoycCHSWvCbcQMygAegUIARDhAQ..i&docid=tvv0kvzHnFEj_M&w=626&h=417&q=matematicas&ved=2ahUKEwib75jO3bD9AhVcoycCHSWvCbcQMygAegUIARDhAQ)
 ### Calculo
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fconcepto.de%2Fwp-content%2Fuploads%2F2013%2F08%2Fmatematicas-e1551990322160-800x399.jpg&imgrefurl=https%3A%2F%2Fconcepto.de%2Fmatematicas%2F&tbnid=i8KW6zbC0xj58M&vet=12ahUKEwib75jO3bD9AhVcoycCHSWvCbcQMygGegUIARDtAQ..i&docid=txgU71_Ruk1HaM&w=800&h=399&q=matematicas&ved=2ahUKEwib75jO3bD9AhVcoycCHSWvCbcQMygGegUIARDtAQ)
 * Funciones
 * Derivadas
 ### Algebra Lineal
