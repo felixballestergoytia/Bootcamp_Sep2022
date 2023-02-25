@@ -41,6 +41,8 @@ Algunos modelos de regresión son:
 * Análisis de Componentes Princiaples (PCA)
 * Descomposición de valores Singulares (SVD)
 * K-Means
+* Dendogramas
+* DBSCAN
 
 
 ## Warning :warning:
