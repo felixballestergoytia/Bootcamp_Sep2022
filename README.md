@@ -62,7 +62,8 @@ Algunos modelos de regresión son:
 * K-Means
 * Dendogramas
 * DBSCAN
-
+## Interpretación de Modelos
+* Valores de Shapley
 
 
 # Warning :warning:
