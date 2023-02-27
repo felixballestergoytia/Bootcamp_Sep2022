@@ -16,8 +16,6 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de septiembre d
 </details>
 
 
-
-
 ## Matemáticas
 
 ### Calculo
